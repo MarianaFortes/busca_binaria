@@ -55,4 +55,5 @@ int main(int argc, char**argv)
 	}
 	printf("\nNumero de buscas: %d", i);
 	fclose(f);
+	return 0;
 }
