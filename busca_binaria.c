@@ -1,3 +1,5 @@
+//Código escrito em conjunto por Leonardo Izaú (@Vladek96) e Mariana Fortes (@MarianaFortes)
+
 #include <stdio.h>
 #include <string.h>
 #include <locale.h>
